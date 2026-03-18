@@ -2,19 +2,33 @@ def main():
   smile = true
   if (smile):
     pr
-asdasdas
-asd
-sad
-a
-ds
+asdasd
+ss
+s
+s
+ss
 
-a
-sd
-a
-sd
-sad
-
-
+ss
+s
 
 s
-dsa
+s
+s
+ss
+s
+s
+
+s
+4r
+4
+4
+
+5
+t5
+t5t
+r
+
+e32
+e32
+e3
+e
