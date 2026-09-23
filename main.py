@@ -7,3 +7,13 @@ def main():
   as
   d
   sad
+
+a
+ds
+asd
+as
+da
+sd
+asd
+as
+d
