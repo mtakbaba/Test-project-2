@@ -1,4 +1,4 @@
-def main():
+adef main():
   smile = true
   if (smile):
     pr
@@ -9,9 +9,11 @@ s
 s
 ss
 ss
-s
-
-sS
+sasdsa
+asdasdasdasdda
+d
+saasfasASFFAFASFAFSAFSAFSAFSAFASFAFASFASFASFASFASWFAS
+dassS
 
 s
 s
